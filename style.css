@@ -1,0 +1,20 @@
+/*
+ Theme Name:     Hemingway Child Theme
+ Theme URI:
+ Description:    Child theme of Hemingway Rewritten
+ Author:         Michael Wender
+ Author URI:     http://mwender.com
+ Template:       hemingway-rewritten-wpcom
+ Version:        1.0.0
+*/
+
+/* =Imports styles from the parent theme
+-------------------------------------------------------------- */
+@import url('../hemingway-rewritten-wpcom/style.css');
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.site-branding{
+	background-color: rgba(29,29,29,0.85);
+}
