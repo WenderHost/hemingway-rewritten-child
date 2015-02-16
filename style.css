@@ -15,6 +15,13 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+hr{
+	display: block;
+	clear: both;
+}
+img.alignright{
+	margin-bottom: 1.7em;
+}
 .site-branding{
 	background-color: rgba(29,29,29,0.85);
 }
