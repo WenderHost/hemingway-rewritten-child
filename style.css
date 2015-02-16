@@ -19,6 +19,9 @@ hr{
 	display: block;
 	clear: both;
 }
+img.alignleft{
+	margin-bottom: 1.7em;
+}
 img.alignright{
 	margin-bottom: 1.7em;
 }
