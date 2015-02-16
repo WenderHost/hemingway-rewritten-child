@@ -20,8 +20,8 @@ hr{
 	clear: both;
     padding: 0;
     border: none;
-    border-top: medium double #333;
-    color: #333;
+    border-top: medium double #444;
+    color: #444;
     text-align: center;
 }
 hr:after {
