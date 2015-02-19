@@ -15,6 +15,9 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+h3{
+    clear: none;
+}
 hr{
 	display: block;
 	clear: both;
