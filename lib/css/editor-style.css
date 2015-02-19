@@ -1,4 +1,9 @@
 /* TinyMCE Editor Styles */
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
 img.alignleft{margin-bottom: 1.7em;}
 img.alignright{margin-bottom: 1.7em;}
 hr{
