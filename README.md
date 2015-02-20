@@ -4,7 +4,7 @@ This is a [WordPress child theme](http://codex.wordpress.org/Child_Themes) of [H
 
 ## Changelog
 
-### Version 1.0.0 - 02/21/2015
+### Version 1.0.0 - 02/19/2015
 
 - Editor styles for post editor
 - `functions.php/hemingway_child_add_editor_styles()` adds WordPress editor styles based on the current page template
