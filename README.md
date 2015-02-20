@@ -6,7 +6,10 @@ This is a [WordPress child theme](http://codex.wordpress.org/Child_Themes) of [H
 
 ### Version 1.0.0 - 02/19/2015
 
-- Editor styles for post editor
+- Styling for post editor so that fonts and content width match public views:
+
+![Styling added so editor fonts and content width match page content](https://raw.githubusercontent.com/WenderHost/hemingway-rewritten-child/master/lib/images/screenshot_editor-styles.png)
+
 - `functions.php/hemingway_child_add_editor_styles()` adds WordPress editor styles based on the current page template
 - Special styling for `<hr />`
 - Bottom margin for `img.alignleft` and `img.alignright`.
