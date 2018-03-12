@@ -4,6 +4,10 @@ This is a [WordPress child theme](http://codex.wordpress.org/Child_Themes) of [H
 
 ## Changelog
 
+### Version 1.0.1 - 03/13/2015
+
+- Adding support for [WooCommerce](http://www.woothemes.com/woocommerce/)
+
 ### Version 1.0.0 - 02/19/2015
 
 - Styling for post editor so that fonts and content width match public views:

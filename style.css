@@ -42,6 +42,10 @@ img.alignleft{
 img.alignright{
 	margin-bottom: 1.7em;
 }
+.woocommerce-page .content-area,
+.woocommerce-page .site-main {
+    margin: 0 auto;
+}
 .site-branding{
 	background-color: rgba(29,29,29,0.85);
 }
