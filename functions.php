@@ -1,6 +1,9 @@
 <?php
 add_editor_style( 'lib/css/editor-style.css' );
 
+include_once('lib/fns/enqueues.php');
+include_once('lib/fns/header.php');
+
 /**
  * Adds editor styles based on the current page template.
  *
