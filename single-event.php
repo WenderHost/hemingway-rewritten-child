@@ -24,7 +24,7 @@ get_header(); ?>
             if( has_post_thumbnail() )
               the_post_thumbnail( 'large' );
 
-            if( $form_id = get_post_meta( $post->ID, 'event_form', true ) )
+            if( $form_id = get_post_meta( $post->ID, 'registration_form', true ) )
               gravity_form( $form_id, false, false, false, false, 99 );
             ?>
           </div>
