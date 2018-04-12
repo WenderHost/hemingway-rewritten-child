@@ -1,0 +1,31 @@
+{
+  "name": "hemingway-child",
+  "version": "1.0.0",
+  "description": "Customized Hemingway Child theme",
+  "main": "functions.php",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WenderHost/hemingway-rewritten-child.git"
+  },
+  "author": "Michael Wender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WenderHost/hemingway-rewritten-child/issues"
+  },
+  "homepage": "https://github.com/WenderHost/hemingway-rewritten-child#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
