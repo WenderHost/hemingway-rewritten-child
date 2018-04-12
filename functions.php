@@ -1,8 +1,11 @@
 <?php
 add_editor_style( 'lib/css/editor-style.css' );
 
+include_once('lib/fns/disable-emojis.php');
 include_once('lib/fns/enqueues.php');
 include_once('lib/fns/header.php');
+
+remove_action('template_redirect', 'wp_old_slug_redirect');
 
 /**
  * Adds editor styles based on the current page template.
