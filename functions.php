@@ -4,6 +4,7 @@ add_editor_style( 'lib/css/editor-style.css' );
 include_once('lib/fns/disable-emojis.php');
 include_once('lib/fns/enqueues.php');
 include_once('lib/fns/header.php');
+include_once('lib/fns/wp-html-email.php');
 
 remove_action('template_redirect', 'wp_old_slug_redirect');
 
